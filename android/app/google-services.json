@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "851748123193",
+    "firebase_url": "https://datab-integradora-419707-default-rtdb.firebaseio.com",
+    "project_id": "datab-integradora-419707",
+    "storage_bucket": "datab-integradora-419707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851748123193:android:93d17ca1ed8c42e70813e8",
+        "android_client_info": {
+          "package_name": "com.example.prototipo_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851748123193-teb0bh3b97s92r403t8bbguob2fvobmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prototipo_v2",
+            "certificate_hash": "5af60e568ad7d060a15584437e50be5d70d99b02"
+          }
+        },
+        {
+          "client_id": "851748123193-cvp9uludg18f3d816oqckd0727m32vq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbPO3AI5EFmQssBo8EfgqlDBwghx77qC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851748123193-cvp9uludg18f3d816oqckd0727m32vq5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851748123193-7nsc002nn5if08r8edkshcnqm9kat5f1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.prototipoV2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
